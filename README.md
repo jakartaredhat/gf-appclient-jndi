@@ -1,5 +1,6 @@
 # Appclient JNDI lookup of remote EJB
 
+Glassfish reported issue: https://github.com/eclipse-ee4j/glassfish/issues/25219
 
 Run the test using `mvn test`:
 
